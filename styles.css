@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1976d2;
+}
+
+#player-stats span {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+#reward-options, #path-selection, #shop {
+  margin-top: 20px;
+}
